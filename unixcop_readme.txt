@@ -1,0 +1,3 @@
+$ cd unixcop
+
+$ ng serve
